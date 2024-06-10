@@ -67,25 +67,29 @@ Aqui mostraremos la interfaz de bienvenida, donde el usuario podra seleccionar a
 
 
 
-
+Aqui mostraremos la interfaz de Agregar pedidos, donde el usuario podra agregar un pedido.
 ![Aqui mostraremos la interfaz de Agregar pedidos, donde el usuario podra agregar un pedido](/Agregarpedido.png)
 
 
 
+Aqui mostraremos la interfaz de pedidos, se mostraran todos los pedidos ingresados a la base de datos
 ![Aqui mostraremos la interfaz de pedidos, se mostraran todos los pedidos ingresados a la base de datos](/verpedidos.png)
 
 
 
+Aqui mostraremos la interfaz de editar pedidos, donde el usuario podra editar un pedido en caso de algun cambio de producto, cantidad o precio.
 ![Aqui mostraremos la interfaz de editar pedidos, donde el usuario podra editar un pedido en caso de algun cambio de producto, cantidad o precio](/Editarpedido.png)
 
 
-
+Aqui mostraremos la base de datos, la cual se conforma por 2 tablas, orders y order_items.
 ![Aqui mostraremos la base de datos, la cual se conforma por 2 tablas, orders y order_items](/TablasBD.png)
 
 
 
+Aqui mostraremos la la tabla de orders,la cual contiene los siguientes atributos: un id de pedido, table_number, subtotal, total, created_at 
 ![Aqui mostraremos la la tabla de orders,la cual contiene los siguientes atributos: un id de pedido, table_number, subtotal, total, created_at ](/tablaorders.png)
 
 
 
+Aqui mostraremos la la tabla de order_items,la cual contiene los siguientes atributos : un id propio, order id,name ,price y quantity.
 ![Aqui mostraremos la la tabla de order_items,la cual contiene los siguientes atributos : un id propio, order id,name ,price y quantity ](/tablaorders_items.png)
