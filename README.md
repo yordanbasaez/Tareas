@@ -58,9 +58,11 @@ Acceder a la Aplicación:
 
 6)Finalmente, se puede acceder a la aplicación abriendo un navegador web y navegando a la URL donde se esté ejecutando el servidor, por ejemplo, http://localhost:3007.
 
+
+Aqui mostraremos la interfaz de bienvenida, donde el usuario podra seleccionar a ver pedidos y ver el listado de pedidos o podra agregar algun pedido.
 ![Aqui mostraremos la interfaz de bienvenida, donde el usuario podra seleccionar a ver pedidos y ver el listado de pedidos o podra agregar algun pedido](bienvenida.png)
 
-Texto adicional explicativo sobre la imagen.
+
 
 
 
