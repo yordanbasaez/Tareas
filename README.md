@@ -64,7 +64,6 @@ Aqui mostraremos la interfaz de bienvenida, donde el usuario podra seleccionar a
 
 
 
-
 Aqui mostraremos la interfaz de Agregar pedidos, donde el usuario podra agregar un pedido.
 ![Aqui mostraremos la interfaz de Agregar pedidos, donde el usuario podra agregar un pedido](/Agregarpedido.png)
 
