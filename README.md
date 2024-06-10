@@ -75,7 +75,7 @@ Acceder a la Aplicación:
 
 
 
-![Aqui mostraremos la base de datos, la cual se conforma por 2 tablas, orders y order_items](/Tablasbd.png)
+![Aqui mostraremos la base de datos, la cual se conforma por 2 tablas, orders y order_items](/TablasBD.png)
 
 
 
