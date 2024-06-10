@@ -60,6 +60,9 @@ Acceder a la Aplicación:
 
 ![Aqui mostraremos la interfaz de bienvenida, donde el usuario podra seleccionar a ver pedidos y ver el listado de pedidos o podra agregar algun pedido](bienvenida.png)
 
+Texto adicional explicativo sobre la imagen.
+
+
 
 
 
